@@ -44,7 +44,7 @@ If you only want to know who hasn't followed you back without deleting anyone, u
 Please choose a mode based on your needs. **Mode A is highly recommended.**
 
 ### 🌟 Mode A: Smart Safe Mode (Recommended)
-*   **Script File**: `delectSecond.js` (Filename typo, actually means delete)
+*   **Script File**: `deleteSecond.js`
 *   **Features**:
     *    **Human Simulation**: Random interval of **5~12 seconds** between deletions to simulate human behavior.
     *    **Built-in Whitelist**: Pre-filled list of famous developers to prevent accidental unfollowing of tech giants.
@@ -83,3 +83,4 @@ A: Your operation is too fast, triggering GitHub's anti-crawler mechanism.
 
 **Q: What should I do after cleanup?**
 A: For account security, it is recommended to go back to GitHub's Tokens settings page and **Delete** the token you just created.
+
